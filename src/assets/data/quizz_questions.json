@@ -1,0 +1,49 @@
+{
+  "title":"Você é mais o Denji ou a Power de 'Chainsaw Man'?",
+  "questions":[
+    {
+      "id":1,
+      "question": "Você gosta mais de cães ou de gatos?",
+      "options":[
+        {"id": 1, "name":"Cães", "alias":"A"},
+        {"id": 2, "name":"Gatos", "alias":"B"}
+      ]
+    },
+    {
+      "id":2,
+      "question": "Você é uma pessoa do dia ou da noite?",
+      "options":[
+        {"id": 1, "name":"Do dia", "alias":"A"},
+        {"id": 2, "name":"Da noite", "alias":"B"}
+      ]
+    },
+    {
+      "id":3,
+      "question": "Escolha o adjetivo que melhor te descreve:",
+      "options":[
+        {"id": 1, "name":"Despojado", "alias":"B"},
+        {"id": 2, "name":"Determinado", "alias":"A"}
+      ]
+    },
+    {
+      "id":4,
+      "question": "Você gosta mais de doces ou salgados?",
+      "options":[
+        {"id": 1, "name":"Doces", "alias":"B"},
+        {"id": 2, "name":"Salgados", "alias":"A"}
+      ]
+    },
+    {
+      "id":5,
+      "question": "Por último, qual dos dois você acha que tem o QI mais baixo?",
+      "options":[
+        {"id": 1, "name":"Power", "alias":"A"},
+        {"id": 2, "name":"Denji", "alias":"B"}
+      ]
+    }
+  ],
+  "results":{
+    "A": "Você tirou: Mais como o Denji",
+    "B": "Você tirou: Mais como a Power"
+  }
+}
